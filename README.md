@@ -12,8 +12,6 @@ The project consist of 1 page as the main page.
 
 -- no test tools are included
 
--- no docker features
-
 Notes: 
 
 -- the checkbox filter feature needed to be clicked several times to work properly
